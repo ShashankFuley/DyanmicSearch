@@ -35,7 +35,7 @@ public class InsurancePlanConfiguration {
 	return new ApiInfoBuilder().title("InsurancePlan-API")
 	.description("Ashok IT API reference for developers")
 	.termsOfServiceUrl("www.ashokit.in")
-	.license("Ashok IT")
+	.license("AshokIT")
 	.licenseUrl("ashokitschool@gmail.com")
 	.version("1.0")
 	.build();
